@@ -374,7 +374,7 @@ a {
 
 /* Header Bottom */
 .header-bottom {
-  background: #f82323; /* black background for contrast */
+  background: #0376e9; /* black background for contrast */
   padding: 10px 0;
 }
 
@@ -2207,5 +2207,6 @@ a {
     .footer-link-box {
         flex-basis: 700px;
     }
+
 
 }
